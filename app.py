@@ -79,7 +79,7 @@ gsap.timeline()
 
 **2. Scroll-Triggered Storytelling:**
 ```javascript
-// Parallax backgrounds
+//Parallax backgrounds
 gsap.to('.parallax-bg', {{
   yPercent: -50,
   ease: "none",
