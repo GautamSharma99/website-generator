@@ -1,0 +1,7 @@
+python-dotenv
+pydantic
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain
+grandalf
